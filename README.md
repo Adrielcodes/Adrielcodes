@@ -1,8 +1,14 @@
 
 ![loadedadrielsgithub2-ezgif com-optimize](https://github.com/Adrielcodes/Adrielcodes/assets/102835356/0e4c7f25-fcef-49a5-9834-2e7aeb324f6a)
 
-# Hello, I'm Adriel Ramirez!
-Welcome to my GitHub profile! I'm passionate about [software development](https://example.com), [open source](https://github.com/exampleuser), and [learning new technologies](https://example.com).
+<h1 align="center">Hi 👋, I'm Adriel Ramirez</h1>
+<h3 align="center">A Software Developer!</h3>
+<p align="center">I'm a software developer who's all about turning ideas into code. With a background in Computer Science and a love for creativity, I enjoy building cool stuff that solves real problems. 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
