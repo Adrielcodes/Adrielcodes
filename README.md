@@ -1,6 +1,8 @@
 
 ![loadedadrielsgithub2-ezgif com-optimize](https://github.com/Adrielcodes/Adrielcodes/assets/102835356/0e4c7f25-fcef-49a5-9834-2e7aeb324f6a)
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 <h1 align="center">Hi 👋, I'm Adriel Ramirez</h1>
 <h3 align="center">A Software Developer!</h3>
 <p align="center">I'm a software developer who's all about turning ideas into code. With a background in Computer Science and a love for creativity, I enjoy building cool stuff that solves real problems. 🛠️</p>
