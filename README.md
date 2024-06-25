@@ -1,5 +1,6 @@
 
-![loaded adriel‘s github!](https://github.com/Adrielcodes/Adrielcodes/assets/102835356/cde981ce-7fbd-49b9-9cb8-540ac9060e02)
+![loadedadrielsgithub2-ezgif com-optimize](https://github.com/Adrielcodes/Adrielcodes/assets/102835356/0e4c7f25-fcef-49a5-9834-2e7aeb324f6a)
+
 
 # Hello, I'm Adriel Ramirez!
 
