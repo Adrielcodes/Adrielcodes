@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm passionate about [software development](https:
 
 </p>
 
+ <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
