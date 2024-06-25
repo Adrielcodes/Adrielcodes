@@ -1,9 +1,6 @@
 
 ![loadedadrielsgithub2-ezgif com-optimize](https://github.com/Adrielcodes/Adrielcodes/assets/102835356/0e4c7f25-fcef-49a5-9834-2e7aeb324f6a)
 
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 # Hello, I'm Adriel Ramirez!
 Welcome to my GitHub profile! I'm passionate about [software development](https://example.com), [open source](https://github.com/exampleuser), and [learning new technologies](https://example.com).
 
@@ -21,11 +18,6 @@ Welcome to my GitHub profile! I'm passionate about [software development](https:
       </div>
 
 </p>
-
- <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🐍 &nbsp;That's How Commits move ...
 
