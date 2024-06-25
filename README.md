@@ -31,6 +31,15 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  <td width="50%">
+
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
